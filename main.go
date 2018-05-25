@@ -1,7 +1,7 @@
 package main
 
 import (
-	"orm_test_platform/action"
+	"boomer_example/action"
 
 	"github.com/toodm/boomer"
 )
