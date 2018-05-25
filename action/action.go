@@ -54,6 +54,5 @@ func Action_10001() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println("ok.....!!!....", respData)
 	return
 }
