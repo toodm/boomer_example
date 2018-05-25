@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "iG7imeRIEQ2GDgudkLNHq8YF1yM=",
+			"path": "github.com/toodm/boomer",
+			"revision": "825fd1520d60c1eedcda0f8137ab4111821b068b",
+			"revisionTime": "2018-04-23T12:28:15Z"
+		}
+	],
+	"rootPath": "orm_test_platform"
+}
